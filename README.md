@@ -3,7 +3,7 @@
 ## Overview
 
 This guide will walk through configuring GitHub Actions and Azure to deploy and update basic infrastructure.
-
+1
 ---
 
 ## Lab 0 - Prerequisites
